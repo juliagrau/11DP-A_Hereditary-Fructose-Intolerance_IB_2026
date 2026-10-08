@@ -8,7 +8,7 @@ We revised what we might have done wrong and realized we were searching the gene
 
 
 
-###**PROTEIN**
+### **PROTEIN**
 
 name: ALDOB aldolase, fructose-bisphosphate B
 
@@ -22,7 +22,7 @@ Q2: gene locus ch 13, exon 9
 
 
 
-###**NUCLEOTIDE**
+### **NUCLEOTIDE**
 
 gene: ALDOB aldolase, fructose-bisphosphate B 
 

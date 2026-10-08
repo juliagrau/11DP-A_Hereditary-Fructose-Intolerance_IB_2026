@@ -10,26 +10,26 @@ We revised what we might have done wrong and realized we were searching the gene
 
 ### **PROTEIN**
 
-name: ALDOB aldolase, fructose-bisphosphate B
+**name**: ALDOB aldolase, fructose-bisphosphate B
 
-acces ID: NP_001127166.1
+**acces ID**: NP_001127166.1
 
-organism: Pongo abelii
+**organism**: Pongo abelii
 
-Q1: Yes, it does
+**Q1**: Yes, it does
 
-Q2: gene locus ch 13, exon 9
+**Q2**: gene locus ch 13, exon 9
 
 
 
 ### **NUCLEOTIDE**
 
-gene: ALDOB aldolase, fructose-bisphosphate B 
+**gene**: ALDOB aldolase, fructose-bisphosphate B 
 
-chromosome: 9
+**chromosome**: 9
 
-location: 9q31.1
+**location**: 9q31.1
 
-accession: NM_000035.4 
+**accession**: NM_000035.4 
 
-exons: 9 
+**exons**: 9 

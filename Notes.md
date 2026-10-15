@@ -39,3 +39,6 @@ We revised what we might have done wrong and realized we were searching the gene
 **Q3**: When the mutant was search on BLAST using the fasta file, the top match was the same as the WT one but this time the identity percentage decreased (WT: 100% MUTANT: 99.91%)
 
 **Q4**: When searching the protein, the top match for the mutant was again the same as the WT, with a lower indentity percentage (WT: 99.18% MUTANT: 98.90%)
+
+
+there's a substitution mutation between the WT and the mutant CDS c.448C>G

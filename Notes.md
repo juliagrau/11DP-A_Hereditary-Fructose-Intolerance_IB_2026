@@ -18,7 +18,8 @@ We revised what we might have done wrong and realized we were searching the gene
 
 **Q1**: Yes, it does
 
-**Q2**: gene locus ch 13, exon 9
+**Q2**: Gene locus is a specific place where is located the sequences. It is located in the chromosome 13. The gen has 9 exons. The tissues expression is: Biased expression in kidney (RPKM 2378.7), small intestine (RPKM 1833.7). The gene is mainly expressed in the kidney, small intestine, and liver in adults. Additionally, during fetal development, it shows a highly specific expression in the intestine (peaking at 15-20 weeks of gestation). The name of the protein aldosa, fructose-bisphosphate B.
+
 
 
 

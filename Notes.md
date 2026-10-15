@@ -10,11 +10,11 @@ We revised what we might have done wrong and realized we were searching the gene
 
 ### **PROTEIN**
 
-**name**: ALDOB aldolase, fructose-bisphosphate B
+**Name**: ALDOB aldolase, fructose-bisphosphate B
 
-**acces ID**: NP_001127166.1
+**Acces ID**: NP_001127166.1
 
-**organism**: Pongo abelii
+**Organism**: Pongo abelii
 
 **Q1**: Yes, it does
 
@@ -25,15 +25,15 @@ We revised what we might have done wrong and realized we were searching the gene
 
 ### **NUCLEOTIDE**
 
-**gene**: ALDOB aldolase, fructose-bisphosphate B 
+**Gene**: ALDOB aldolase, fructose-bisphosphate B 
 
-**chromosome**: 9
+**Chromosome**: 9
 
-**location**: 9q31.1
+**Location**: 9q31.1
 
-**accession**: NM_000035.4 
+**Accession**: NM_000035.4 
 
-**exons**: 9 
+**Exons**: 9 
 
 
 **Q3**: When the mutant was search on BLAST using the fasta file, the top match was the same as the WT one but this time the identity percentage decreased (WT: 100% MUTANT: 99.91%)

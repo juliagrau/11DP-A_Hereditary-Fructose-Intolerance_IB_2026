@@ -42,3 +42,6 @@ We revised what we might have done wrong and realized we were searching the gene
 
 
 there's a substitution mutation between the WT and the mutant CDS c.448C>G
+
+
+**Q6**: Since there have been no nucleotides inserted or deleted, the reading frame hasn't been altered or presents a frameshift.

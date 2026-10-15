@@ -8,7 +8,7 @@ We revised what we might have done wrong and realized we were searching the gene
 
 
 
-**IMPORTANCE OF THE PROTEIN’S FOLDING**
+### **IMPORTANCE OF THE PROTEIN’S FOLDING**
 
 For the isoenzyme’s function to be able to take place, it has to be able to fold properly because. Given this same is one with a quaternary structure formed by four individual and identical protein subunits (homotetramer), these same need to be flexible enough to form its functional structure by having the ability to open and close their contact interfaces so they are bound to each other and also orient the catalytic amino acids to the exact chemical positions; carrying out a process called induced fit.
 

@@ -7,6 +7,7 @@
 **R-Value**:
  - R-Value Free: 0.276
  - R-Value Work: 0.224
+   
 **Source organism**: _Homo sapiens_
 **Primary Citation**: Dalby AR, Tolan DR, Littlechild JA (2001). The structure of human liver fructose-1,6-bisphosphate aldolase. Acta Crystallographica Section D 57: 1526.
 **Ligand**: Sulfate ion (SO4)

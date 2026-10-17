@@ -49,7 +49,7 @@ So, a greater rigidity (which is caused by the mutant variant we are working wit
 
 **Q4**: When searching the protein, the top match for the mutant was again the same as the WT, with a lower indentity percentage (WT: 99.18% MUTANT: 98.90%)
 
-**Q5**: There's a substitution mutation between the WT and the mutant CDS c.448C>G. Also, there's a mutation in the amino acids p.Ala150Pro. It's a missense mutation. The change of the nucleotide C to G causes a change in the synthesis of the protein number 150, in the position of Alanine to Proline.
+**Q5**: There's a substitution mutation between the WT and the mutant CDS c.448G>C. Also, there's a mutation in the amino acids p.Ala150Pro. It's a missense mutation. The change of the nucleotide G to C causes a change in the synthesis of the protein number 150, in the position of Alanine to Proline.
 
 **Q6**: Since there have been no nucleotides inseted or deleted, the reading frame hasn't been altered, so no frameshift mutation has occurred.
 

@@ -63,4 +63,8 @@ While in the other side, the Alanine is the aminoacid that mostly tends to form 
 
 **Q10 - Q11**: At the CDS level, the sequence has a subtitution mutation "c.448C>G" which causes at the proteic level a missense substitution mutation "p.Ala150Pro"
 
-**Q12**: 
+**Q12**: Despite there being untranslated regions in both the _Pongo Abeli_ and _Oryctolagus cuniculus_ before and after the protein-coding sequence, they both share a high percentage of nucleotide identity with the human query (98,63% and 93.42% respectively).  
+We located three uninterrupted conserved blocks in the CDS wild type sequences:
+  - Positions 313–389 from GTGGG... to ...GATGG.   
+  - Positions 688–740 from AAGCC... to ...CCAGA.   
+  - Positions 397–449 from AGAGC... to ...CGTGC.   

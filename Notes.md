@@ -60,3 +60,7 @@ It is also important to take into account that, although both amino acids are no
 
 **Q9**: This affects how the protein folds and functions. The amino acid Proline is known as the helix breaker, since its amino group is found inside a ring, this bends the chain, makes it incompatible with helix formation and forms a rigid structure due to the double bond. This double bond doesn't allow the bending of the protein and thus, it affects the functionability of the mutant protein. 
 While in the other side, the Alanine is the aminoacid that mostly tends to form helix, additionally is the only one that forms stable alpha helix in aqueous environments. The change of an α-Helix to a rigid structure affects these two aspects of the protein.
+
+**Q10 - Q11**: At the CDS level, the sequence has a subtitution mutation "c.448C>G" which causes at the proteic level a missense substitution mutation "p.Ala150Pro"
+
+**Q12**: 

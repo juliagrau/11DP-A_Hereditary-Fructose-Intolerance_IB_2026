@@ -1,5 +1,7 @@
 # FRUCTOSE ALDOLASE B - PDB Documentation
 
+**Note on residue numbering:** the mutated residue is position 150 in our sequences and in UniProt (p.Ala150Pro), where the initial methionine is counted as residue 1. The PDB structures used here number the residues without this initial methionine, so the same residue appears as position 149 (A149P). Both numbers refer to the same amino acid.
+
 ### Reference protein (wild type)
 
 **PDB code**: 1QO5
@@ -10,7 +12,7 @@
 
 **Method**:  X-ray Diffraction
 
-**Resolution**: 2.50 Å
+**Resolution**: 2.50 Å (medium)
 
 **R-Value**:
  - R-Value Free: 0.276
@@ -38,7 +40,7 @@ Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with oth
 
 **Method**:  X-ray Diffraction
 
-**Resolution**: 3Å
+**Resolution**: 3Å (medium)
 
 **R-Value**:
  - R-Value Free: 0.310 (1XDM), 0.340 (1XDL)
@@ -79,3 +81,17 @@ The PDB identifies 1QO5 as a homotetramer and the assembly shown for 1XDL is hom
 - The asymmetric unit contains several assemblies
 
 Aldolase B works as a homotetramer (4 chains). The 1QO5 file contains 18 chains, so it includes several assemblies (four and a half tetramers). The 1XDM file contains 8 chains, and the PDB defines its assembly as a dimer (2 chains), so it also contains several assemblies.
+
+### Atomic-level data
+
+**1QO5**
+- **Residue 149 (Cα atom)**: Ala149
+- **B-factor**: 26.53
+
+**1XDM**
+- **Residue 149 (Cα atom)**: Pro149
+- **B-factor**: 92.42
+
+In wild type, residue 149 has a moderate B-factor, so this part of the protein is quite stable. In the mutant, the B-factor of Pro149 is more that three times higher and well above 50Å², which means that this region is disordered.
+
+The occupancy (from 0 to 1) indicates whether an atom is found in the same position in all the molecules of the crystal. The Cα atom of residue 149 has an occupancy of 1.00 in both structures, as do almost all the atoms, so there are no alternative positions for this residue.

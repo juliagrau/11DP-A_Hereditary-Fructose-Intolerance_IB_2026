@@ -16,5 +16,9 @@ The fructose is rapidly converted into fructose 1-phosphate by fructokinase, and
 
 This also leads to an increment of the production of uric acid due to an increase of adenine nucleotide degradation by adenosine deaminase, which has a similar result in the processes seen in glucose-6-phosphatase and crutose 1,6-diphophatase deficiencies. The acummulation of fructose also leads to pyruvate kinase (the enzyme that catalyzes the final step of glycolisis) being activated and thus, accumulation of precursos of the Krebs cycle, that also contribute to acidosis.
 
-**How can this disease be treated?**
+**How is this disease diagnosed and treated?**
+
+The diagnosis of this disease comes after several clinical tests regarding the reaction of the body after the ingestion of fructose, sucrose or foods that contain sorbitol. There is a more invasive method that consists of a liver biopsy to examine the presence of aldolase B.  Urine can also be inspected to observe reducing substances and verify if the values of each of these match the expected results.
+
+The main treatment for HFI is a diet free of fructose and sucrose, including products that contain sorbitol. This includes medicines or vaccines that have sorbitol as a main component.
 

@@ -13,3 +13,8 @@ Aldolase B is one of the three isoenzymes needed for the cleavage of fructose-1 
 **Why are the accumulations of fructose 1-phosphate harmful?**
 
 The fructose is rapidly converted into fructose 1-phosphate by fructokinase, and without aldolase B to catalyze the molecule, it acummulates. This causes a depletion of both ATP and phosphate, elements responsible for long-term organ injury.
+
+This also leads to an increment of the production of uric acid due to an increase of adenine nucleotide degradation by adenosine deaminase, which has a similar result in the processes seen in glucose-6-phosphatase and crutose 1,6-diphophatase deficiencies. The acummulation of fructose also leads to pyruvate kinase (the enzyme that catalyzes the final step of glycolisis) being activated and thus, accumulation of precursos of the Krebs cycle, that also contribute to acidosis.
+
+**How can this disease be treated?**
+

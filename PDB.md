@@ -95,3 +95,9 @@ Aldolase B works as a homotetramer (4 chains). The 1QO5 file contains 18 chains,
 In wild type, residue 149 has a moderate B-factor, so this part of the protein is quite stable. In the mutant, the B-factor of Pro149 is more that three times higher and well above 50Å², which means that this region is disordered.
 
 The occupancy (from 0 to 1) indicates whether an atom is found in the same position in all the molecules of the crystal. The Cα atom of residue 149 has an occupancy of 1.00 in both structures, as do almost all the atoms, so there are no alternative positions for this residue.
+
+### Link to the disease
+
+We located residue 150 (Ala149 in the PDB numbering) in the 3D viewer. and observed that it is a part of a ß-strand, which agrees with the UniProt annotation (ß-strand 145-152). Its B-factor is  26.53 Å² in the wild type (1QO5) and 92.42 Å² in the mutant (1XDM).
+
+**Interpretation**: As we discussed in the sequence analysis (Q8-Q9), proline cannot form some of the hydrogen bonds that hold a ß-strand together and makes the chain more rigid. This is because its side chain is a ring bound to its own backbone nitrogen

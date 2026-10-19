@@ -79,4 +79,8 @@ We located three uninterrupted conserved blocks in the protein wild type sequenc
 
 **Q15**: There are some substitutions in both the _Pongo Abelii_ and _Oryctolagus cuniculus_ in relation to the human query such as position 333 (human query) where a Methionina is substituted for a Valine. _Oryctolagus cuniculus_ differs from human at 11 positions and _Pongo Abelii_ differs at 3 positions. There are no gaps due to deletions or additions.
 
-  
+**Q16**: Yes, because after we analysed  the nuclear amino acid  sequences we found that in both sequence there were regions that were more conserved than others.
+
+**Q17**: No, because since the genetic code is degenerated, which means that mutiple codons can synthesized the same amino acid, some of the mutations end up synthesizing the same amino acid making them silent mutations. For instance:
+
+**Q18**: They appear more similar in the protein level because some of the mutation at the CDS level are silent and do not appear in the amino acid sequence.

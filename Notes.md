@@ -61,14 +61,22 @@ It is also important to take into account that, although both amino acids are no
 **Q9**: This affects how the protein folds and functions. The amino acid Proline is known as the helix breaker, since its amino group is found inside a ring, this bends the chain, makes it incompatible with helix formation and forms a rigid structure due to the double bond. This double bond doesn't allow the bending of the protein and thus, it affects the functionability of the mutant protein. 
 While in the other side, the Alanine is the aminoacid that mostly tends to form helix, additionally is the only one that forms stable alpha helix in aqueous environments. The change of an α-Helix to a rigid structure affects these two aspects of the protein.
 
-**Q10 - Q11**: At the CDS level, the sequence has a subtitution mutation "c.448C>G" which causes at the proteic level a missense substitution mutation "p.Ala150Pro"
+**Q10 - Q11**: At the CDS level, the sequence has a subtitution mutation "c.448G>C" which causes at the proteic level a missense substitution mutation "p.Ala150Pro"
 
-**Q12**: Despite there being untranslated regions in both the _Pongo Abeli_ and _Oryctolagus cuniculus_ before and after the protein-coding sequence, they both share a high percentage of nucleotide identity with the human query (98,63% and 93.42% respectively).  
+**Q12**: Despite there being untranslated regions in both the _Pongo Abelii_ and _Oryctolagus cuniculus_ before and after the protein-coding sequence, they both share a high percentage of nucleotide identity with the human query (98,63% and 93,42% respectively).  
 We located three uninterrupted conserved blocks in the CDS wild type sequences:
   - Positions 313–389 from GTGGG... to ...GATGG.   
   - Positions 688–740 from AAGCC... to ...CCAGA.   
   - Positions 397–449 from AGAGC... to ...CGTGC.
 
-**Q13**: There are some substitutions in both the _Pongo Abeli_ and _Oryctolagus cuniculus_ in relation to the human query  such as position 465 (human query) where a C is substituted for a T. There are no gaps due to deletions or additions.
+**Q13**: There are some substitutions in both the _Pongo Abelii_ and _Oryctolagus cuniculus_ in relation to the human query such as position 465 (human query) where a Cytidine is substituted for a Thymidine. There are no gaps due to deletions or additions.
 
-**Q14**: 
+**Q14**: They both share a high percentage of amionacid identity with the human query (99,18% and 96,98% respectively). 
+We located three uninterrupted conserved blocks in the protein wild type sequence: 
+- Position 68-167
+- Position 213-332
+- Position 175-213
+
+**Q15**: There are some substitutions in both the _Pongo Abelii_ and _Oryctolagus cuniculus_ in relation to the human query such as position 333 (human query) where a Methionina is substituted for a Valine. _Oryctolagus cuniculus_ differs from human at 11 positions and _Pongo Abelii_ differs at 3 positions. There are no gaps due to deletions or additions.
+
+  

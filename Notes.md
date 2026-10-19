@@ -70,3 +70,5 @@ We located three uninterrupted conserved blocks in the CDS wild type sequences:
   - Positions 397–449 from AGAGC... to ...CGTGC.
 
 **Q13**: There are some substitutions in both the _Pongo Abeli_ and _Oryctolagus cuniculus_ in relation to the human query  such as position 465 (human query) where a C is substituted for a T. There are no gaps due to deletions or additions.
+
+**Q14**: 

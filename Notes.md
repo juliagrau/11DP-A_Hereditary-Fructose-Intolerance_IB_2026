@@ -84,3 +84,7 @@ We located three uninterrupted conserved blocks in the protein wild type sequenc
 **Q17**: No, because since the genetic code is degenerated, which means that mutiple codons can synthesized the same amino acid, some of the mutations end up synthesizing the same amino acid making them silent mutations. For instance:
 
 **Q18**: They appear more similar in the protein level because some of the mutation at the CDS level are silent and do not appear in the amino acid sequence.
+
+**Q19**: Positions that are important for structure or function tolerate few changes. The conserved block 69–169 belongs to the α/β barrel. It contains residues needed for catalysis and for the subunit interface, such as Arg148 and the β-strand 145–152 (PDB numbering), and conservation in the active site is known for all aldolases.
+
+**Q20**: Yes. Ala150 lies in a 101-residue block that is identical in the three species, inside a β-strand of the α/β barrel next to the active site. According to Malay et al. (2005), its mutation disorders this strand, the subunit interface 110–129, and active-site loops. Conservation in only three species, however, is not enough to prove that the position is conserved in all mammals.

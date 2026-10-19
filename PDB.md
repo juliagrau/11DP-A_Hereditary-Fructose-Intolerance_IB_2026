@@ -32,6 +32,8 @@ Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with oth
 
 **Biologial Assembly**: Homotetramer
 
+**Note**: A second wild-type human structure is available, 8D44 (cryo-electron microscopy, 2.8 Å, aldolase B from kidney, no mutations). We chose 1QO5 as the reference because it has a better resolution (2.50 Å), following the criterion of selecting the structure with the highest resolution.
+
 ### Mutated proteins
 
 **PDB code**: 1XDM, 1XDL

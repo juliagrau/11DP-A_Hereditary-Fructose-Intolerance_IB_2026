@@ -72,14 +72,13 @@ Researchers analyzed the most common genetic mutation behind hereditary fructose
 **1QO5**
 - **Chains in the PDB file (asymmetric unit)**: 18 (A-R)
 - **Biological assembly**: Homotetramer (4 chains)
-- The asymmetric unit contains several assemblies (18>4)
+- The asymmetric unit contains more than one biological assembly. It holds four complete tetramers plus a dimer (2 chains) belonging to a fifth tetramer. For this reason, Biological Assembly 1 should be used to study the funcional enzyme.
 
-**1XDM**
+**1XDM/1XDL**
 - **Chains in the PDB file (asymmetric unit)**: 8 (A-D, W-Z)
 - **Biological assembly**: Homodimer (2 chains)
-- The asymmetric unit contains several assemblies
+- The asymmetric unit contains several assembles,specifically four dimers.The mutant is described as a dimer, consistent with the loss of quaternary structure reported for A149P.
 
-Aldolase B works as a homotetramer (4 chains). The 1QO5 file contains 18 chains, so it includes several assemblies (four and a half tetramers). The 1XDM file contains 8 chains, and the PDB defines its assembly as a dimer (2 chains), so it also contains several assemblies.
 
 ### Atomic-level data
 

@@ -36,7 +36,9 @@ Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with oth
 
 **PDB code**: 1XDM, 1XDL
 
-**Tittle**: Structure of human aldolase B associated with hereditary fructose intolerance (A149P), at 277K
+**Tittle 1XDL**: Structure of human aldolase B associated with hereditary fructose intolerance (A149P), at 277K 
+          
+**Tittle 1XDM**: Structure of human aldolase B associated with hereditary fructose intolerance (A149P), at 291K
 
 **Classification**: LYASE
 
@@ -135,15 +137,8 @@ The sequence around residue 150 is identical in rabbit and human, as we saw in t
 
 - The 1QO5 structure corresponds to the reference human aldolase B, without mutations, and has a resolution of 2.50 Å. The 1XDM and 1XDL structures correspond to human aldolase B with the A149P substitution, which is associated with hereditary fructose intolerance, and have a resolution of 3.00 Å.
 
-- 1QO5 has lower R-values than 1XDM and 1XDL, indicating a better
-  fit between the electron density measured in the crystal and the
-  electron density explained by the model.
+- 1QO5 has lower R-values than 1XDM and 1XDL, indicating a better fit between the electron density measured in the crystal and the electron density explained by the model.
 
-- The PDB identifies 1QO5 as a homotetramer, while the assembly
-  shown for 1XDM and 1XDL is a homodimer.
+- The PDB identifies 1QO5 as a homotetramer, while the assembly shown for 1XDM and 1XDL is a homodimer.
 
-- There are important structural alterations near the mutated site.
-  In the mutant, residues 150–158 and three neighbouring loops (110
-  129, 189–199 and 235–242) have no coordinates because they are
-  disordered, and the B-factor of residue 149 increases from 26.53
-  Å² to 92.42 Å².
+- There are important structural alterations near the mutated site. In the mutant, residues 150–158 and three neighbouring loops (110-129, 189–199 and 235–242) have no coordinates because they are disordered, and the B-factor of residue 149 increases from 26.53 Å² to 92.42 Å².

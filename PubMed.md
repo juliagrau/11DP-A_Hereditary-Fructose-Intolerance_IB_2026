@@ -24,7 +24,7 @@ The diagnosis of this disease comes after several clinical tests regarding the r
 
 The main treatment for HFI is a diet free of fructose and sucrose, including products that contain sorbitol. This includes medicines or vaccines that have sorbitol as a main component.
 
-**In adult patients, do they show a higher preference to follow pharmacological therapy as a complement to their current diet or a replacement of it?**
+### **In adult patients, do they show a higher preference to follow pharmacological therapy as a complement to their current diet or a replacement of it?**
 
 Different patients of adult age were recruited from clinics and through social media to complete a labeled discrete choice experiment, which was followed by an interview . In any set, they were asked to choose between their current fructose-restricted diet or pharmacological therapy, considering various factors.
 

@@ -1,4 +1,4 @@
-# PubMEd
+# PubMed
 
 ### **What is Fructose?**
 

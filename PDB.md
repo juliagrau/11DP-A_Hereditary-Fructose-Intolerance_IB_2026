@@ -26,8 +26,6 @@
 
 **Primary Citation**: Dalby AR, Tolan DR, Littlechild JA (2001). The structure of human liver fructose-1,6-bisphosphate aldolase. Acta Crystallographica Section D 57: 1526.
 
-Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with other similar enzymes in the body (the muscle is ozone (aldolase A)), they found that the liver version had an extra fold at the C-terminal tail that makes it highly flexible. However, genetic mutations can damage this specific fold, making this enzyme stop working and causing a severe disease called hereditary fructose intolerance.
-
 **Ligand**: Sulfate ion (SO4)
 
 **Biologial Assembly**: Homotetramer
@@ -59,8 +57,6 @@ Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with oth
 **Expression System**: Escherichia coli
 
 **Primary Citation**: Malay, A.D., Allen, K.N., Tolan, D.R. (2005) J Mol Biol 347: 135-14
-
-Researchers analyzed the most common genetic mutation behind hereditary fructose intolerance. They discover that a singles amino acid substitution in the liver enzyme triggers a chain reaction of molecular disorder. This structural chaos spreads through the protein, disrupting its quaternary structure and destroying its ability to process sugar, specially as temperatures rise.
 
 **Ligand**: Sulfate ion (SO4)
 
@@ -122,8 +118,6 @@ We located residue 150 (Ala149 in the PDB numbering) in the 3D viewer. and obser
 **Source organism**: _Oryctolagus cuniculus_
 
 **Primary Citation**: Dalby AR, Tolan DR, Littlechild JA (2001). The structure of human liver fructose-1,6-bisphosphate aldolase. Acta Crystallographica Section D 57: 1526.
-
-Scientist created a 3D map of a liver enzyme (aldolase B). Comparing it with other similar enzymes in the body (the muscle is ozone (aldolase A)), they found that the liver version had an extra fold at the C-terminal tail that makes it highly flexible. However, genetic mutations can damage this specific fold, making this enzyme stop working and causing a severe disease called hereditary fructose intolerance.
 
 **Ligands**:  2FP (fructose-1,6-bisphosphate), 13P (dihydroxyacetone phosphate), G3P (glycerol-3-phosphate) and SO4
 

@@ -1,6 +1,8 @@
 #  Hereditary Fructose Intolerance: analysis on the causes
 Ferré Parés Josep, Grau Martín Júlia, Iturriaga Pizarro Jana, Zhouchen Diana
-Degree in Bioinformatics, UPC-UPF-UAB-UB, Barcelona, Spain
+
+Bachelor's Degree in Bioinformatics, UPC-UPF-UAB-UB, Barcelona, Spain
+
 ### Abstract
 [Provide a structured abstract covering Background, Results, and Conclusions (Max 350
 words).]

@@ -124,9 +124,7 @@ We located residue 150 (Ala149 in the PDB numbering) in the 3D viewer. and obser
 **Biologial Assembly**: Homotetramer
 
 **B-factor of residue 149 (Cα)**: 8.80 Å²
-(((The region around residue 149 is identical in the rabbit and human, and in the rabbit structure it is very stable (B-factor below 10 Å²). This shows that this region is conserved and structurally important in both species. 
-
-The sequence around residue 150 is identical in rabbit and human, as we saw in the multiple sequence alignment. In the rabbit structure, this region has a very low B-factor (below 10 Å²), so it is very stable, as in the human wild-type structure. A region that is conserved between species and well ordered in the healthy proteins is probably important for the structure of the enzyme. This agrees with the fact that changing alanine to proline in this region disorders the protein.)))????
+The region around residue 149 is identical in the rabbit and human, and in the rabbit structure it is very stable (B-factor below 10 Å²). This shows that this region is conserved and structurally important in both species. 
 
 ### Comparisons
 

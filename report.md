@@ -36,6 +36,11 @@ To identify which was the causative gene and protein from the WT coding sequence
 
 After repeating the searches, this time restricting the outputs to _Homo sapiens_, both the WT nucleotide CDS and protein sequences matched the 1-fructose,6-biphosphate aldolase B (ALDOB, accession NM_000035.4,chromosome 9q31.1 , nine exons; UniProtKB 364 amino acids, 39 473 Da, sequence updated in  2007). Querying the FASTA files compared to the human reference, sequence identity decreased from 100% (WT) to 99.91% (mutant) at the CDS level, and from 99.18% (WT) to 98.90% (mutant) at the protein level.
 
+### Identification of the Pathogenic Variant
+Pairwise alignment between the human WT and the mutant CDS sequences identified a single variation between the two, a nucleotide substitution at position 448 (c.448C>G). There was no insertion of deletion of nucleotides, so the open reading frame remains intact with no frameshift mutations. At protein level, this single nucleotide changes makes for a codificaiton of another nucleotide, causing a missense mutation at codon 150, replacing Alanine with Proline ( p.Ala150Pro ). GCA (WT codon) syntesizes Alanine, while CCA (mutant codon) synthesizes Proline. UniProtKB classifies this substitution as a physicochemical transition from a small, hydrophobic residue (Alanine, A) to a medium-sized, hydrophobic residue (Proline, P) with a BLOSUM score of −1, indicating an evolutionarily disfavoured replacement.
+
+Although both Alanine and Proline are neutral, non-polar aminoacids that contain the same functional groups, standard carboxyl (-COOH) and amino (-NH2), the position inside the molecule affects how they interact with other molecules and backbone connectivity. 
+
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ***

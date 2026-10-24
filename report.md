@@ -41,6 +41,9 @@ Pairwise alignment between the human WT and the mutant CDS sequences identified 
 
 Although both Alanine and Proline are neutral, non-polar aminoacids that contain the same functional groups, standard carboxyl (-COOH) and amino (-NH2), the position inside the molecule affects how they interact with other molecules and backbone connectivity. The alanine amino group retains a free amide hydrogen after being incorporated to the polypeptide chain. This is due to it being in an extreme of the molecule, which allows it to act as a hydrogen-bond donor. Moreover, alanine is the aminoacid with the highest propensity to form stable α-helices in aqueous environments. On the other hand, Proline's amino group is caged inside a rigid cyclic ring that is bonded to its own backbone nitrogen atom. This means that proline has no free amide hydrogen that can act as a hydrogen-bond donor, causing a complete change in the structure of the protein. Proline bends the main chain, and acts as a classic secondary-structure breaker ("helix and β-strand breaker") due to its structural characteristics.
 
+### Evolutionary Conservation Comparison Analysis Between Species
+
+### Protein Structure Comparision and Atomic-Level Perturbations
 
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]

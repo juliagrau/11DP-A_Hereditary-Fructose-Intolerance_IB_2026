@@ -53,7 +53,7 @@ So, a greater rigidity (which is caused by the mutant variant we are working wit
 
 **Q6**: Since there have been no nucleotides inseted or deleted, the reading frame hasn't been altered, so no frameshift mutation has occurred.
 
-**Q7**: Both amino acids are hydrophobic and neutral charge, but what differs between them is their structure and distribution of amino (NH3) and acid (COOH-) groups. The alanine has the amino group at the end of the chain, which grants it the ability to act as a hydrogen bond donor. In the other side, the proline has the amino group enclosed in a ring which inhibits it from behaving as a hydrogen bond donor. 
+**Q7**: Both amino acids are hydrophobic and neutral charge, but what differs between them is their structure and distribution of amino (NH2) and acid (COOH-) groups. The alanine has the amino group at the end of the chain, which grants it the ability to act as a hydrogen bond donor. In the other side, the proline has the amino group enclosed in a ring which inhibits it from behaving as a hydrogen bond donor. 
 
 **Q8**: While both amino acids have a carboxyl group, Proline doesn’t have a free amino group available for hydrogen bonding once it joins the peptide chain. This means that certain hydrogen bonds won’t be formed in the mutant protein, affecting how it interacts with other amino acids. For instance, Proline is known as a 'helix breaker' because its amino group is incorporated into a ring; this bends the backbone chain and makes it incompatible with alpha-helix formation.
 It is also important to take into account that, although both amino acids are non-polar, they do not form the same types of interactions. Since Proline's nitrogen lacks a free hydrogen, hydrogen bonds that depend on it cannot be made.

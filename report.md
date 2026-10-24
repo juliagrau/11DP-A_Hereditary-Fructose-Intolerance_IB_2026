@@ -31,9 +31,12 @@ Three-dimensional structures of aldolase B are available in the Protein Data Ban
 ***
 ## Results
 [Present your findings. Use subheadings as needed.]
-### Gene and Protein Identification Across Genomic Databases
-***
-### Discussion
+### Gene and Protein Identification Across Genomic Databases 
+To identify which was the causative gene and protein from the WT coding sequence (CDS) and the aminoacids FASTA files, we executed sequence similarity searches using BLAST, the Basic Local Alignment Search Tool. The first search iteration arose taxonomic discrepancy because the protein query we focused on was searched against a non-human primate homologue, a Sumatran orangutan (_pongo abelii_, accession NP_001127166.1). Simultaneously, a cross-search using OMIM, the Online Mendelian Inheritance in Man, was carried out. After typing the query search "Herederitary Fructose Intolerance" and learning about this disease from the first entries, we extracted the conclusion that we had to focus on the isoenzyme Aldolase B. 
+
+After repeating the searches, this time restricting the outputs to _Homo sapiens_, both the WT nucleotide CDS and protein sequences matched the 1-fructose,6-biphosphate aldolase B (ALDOB, accession NM_000035.4,chromosome 9q31.1 , nine exons; UniProtKB 364 amino acids, 39 473 Da, sequence updated in  2007). Querying the FASTA files compared to the human reference, sequence identity decreased from 100% (WT) to 99.91% (mutant) at the CDS level, and from 99.18% (WT) to 98.90% (mutant) at the protein level.
+
+## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ***
 ## Conclusions

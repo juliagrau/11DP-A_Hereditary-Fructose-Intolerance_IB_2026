@@ -42,8 +42,41 @@ Pairwise alignment between the human WT and the mutant CDS sequences identified 
 Although both Alanine and Proline are neutral, non-polar aminoacids that contain the same functional groups, standard carboxyl (-COOH) and amino (-NH2), the position inside the molecule affects how they interact with other molecules and backbone connectivity. The alanine amino group retains a free amide hydrogen after being incorporated to the polypeptide chain. This is due to it being in an extreme of the molecule, which allows it to act as a hydrogen-bond donor. Moreover, alanine is the aminoacid with the highest propensity to form stable α-helices in aqueous environments. On the other hand, Proline's amino group is caged inside a rigid cyclic ring that is bonded to its own backbone nitrogen atom. This means that proline has no free amide hydrogen that can act as a hydrogen-bond donor, causing a complete change in the structure of the protein. Proline bends the main chain, and acts as a classic secondary-structure breaker ("helix and β-strand breaker") due to its structural characteristics.
 
 ### Evolutionary Conservation Comparison Analysis Between Species
+We compared human aldolase B with two mammals: rabbit (Oryctolagus cuniculus), the species assigned to our group, and Sumatran orangutan (Pongo abelii), a closely related primate. Following the practical guidelines, we only used curated RefSeq records: NM_001171114.1 and NP_001164585.1 for rabbit, and NM_001133694.1 and NP_001127166.1 for orangutan.
+
+**Table 2. Sequence identity of the orthologs with human aldolase B.**
+
+| Species | CDS identity | Protein identity | Amino-acid differences | Gaps |
+|:---|:---:|:---:|:---:|:---:|
+| *Pongo abelii* | 98.63 % | 99.18 % | 3 | None |
+| *Oryctolagus cuniculus* | 93.42 % | 96.98 % | 11 | None |
+
+At the CDS level, we found three long blocks identical in the three species: positions 313–389, 397–449 and 688–740. The block 397–449 ends at nucleotide 449, so it includes the first base of codon 150, the site of the variant. We also found substitutions, for example at position 465, where the human C is replaced by T in both orangutan and rabbit.
+
+At the protein level, 351 of 364 positions (96.4 %) are identical in the three species. One of the longest identical blocks covers positions 68–167, and Ala150 lies inside it. Orangutan differs from human at 3 positions and rabbit at 11 positions; for example, Met333 is replaced by Val in both species. No gaps were found.
+
+The three species are more similar at the protein level than at the CDS level. Many nucleotide differences do not change the amino acid (synonymous substitutions), because the genetic code is degenerate: several codons encode the same amino acid. This indicates that the protein sequence has been conserved more strongly than the DNA sequence, and that the region containing Ala150 tolerates few changes.
 
 ### Protein Structure Comparision and Atomic-Level Perturbations
+We searched the PDB with the UniProt accession of human aldolase B (P05062). Four human structures are available: 1QO5 and 8D44 have no mutations, while 1XDL and 1XDM contain the A149P substitution, the same variant found in our mutant sequence. We selected 1QO5 as the WT reference because it has the highest resolution (2.50 Å), and 1XDM as the main mutant structure. For the rabbit we used 1FDJ (liver aldolase B), because most rabbit aldolase structures in the PDB belong to the muscle isoform (aldolase A), which is a different gene.
+
+**Table 3. PDB structures analysed.**
+
+| | 1QO5 (human WT) | 1XDM (human A149P) | 1FDJ (rabbit WT) |
+|:---|:---:|:---:|:---:|
+| Method / resolution | X-ray, 2.50 Å | X-ray, 3.00 Å | X-ray, 2.10 Å |
+| R-free / R-work | 0.276 / 0.224 | 0.310 / 0.264 | 0.214 / 0.171 |
+| Chains in the PDB file | 18 | 8 | 4 |
+| Biological assembly | Homotetramer | Homodimer | Homotetramer |
+| Ligands | SO4 | SO4 | 2FP, 13P, G3P, SO4 |
+| Secondary structure at residue 150 | β-strand | β-strand | β-strand |
+| B-factor of residue 150 (Cα) | 26.53 Å² | 92.42 Å² | 8.80 Å² |
+
+All structures have medium resolution (2–3.5 Å). The mutant structure has higher R-values than the WT, which indicates a poorer fit between the model and the experimental data, as expected for a partially disordered protein. The PDB files of 1QO5 (18 chains) and 1XDM (8 chains) contain several copies of the biological assembly. The PDB describes the WT enzyme as a homotetramer and the A149P mutant as a homodimer, which suggests that the mutation affects how the subunits assemble.
+
+In the 3D viewer, residue 150 is located in a β-strand, in agreement with the UniProt annotation (β-strand 145–152), and close to a sulfate ion bound near Arg148. In the WT, its B-factor is moderate (26.53 Å²), so this region is quite stable. In the mutant, the B-factor of Pro150 is more than three times higher (92.42 Å²) and several residues after the mutation have no coordinates, which means that this region becomes highly mobile and disordered. The Cα atom of residue 150 has an occupancy of 1.00 in both structures, so it has no alternative positions.
+
+In the rabbit structure, the region around residue 150 is identical in sequence to the human one and very stable (B-factor below 10 Å²). Together with the sequence conservation, this indicates that this region is important for the structure of aldolase B in both species.
 
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]

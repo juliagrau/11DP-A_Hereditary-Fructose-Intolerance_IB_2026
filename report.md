@@ -78,6 +78,21 @@ In the 3D viewer, residue 150 is located in a β-strand, in agreement with the U
 
 In the rabbit structure, the region around residue 150 is identical in sequence to the human one and very stable (B-factor below 10 Å²). Together with the sequence conservation, this indicates that this region is important for the structure of aldolase B in both species.
 
+### Protein comparison between WT orthologs
+After comparing the physichochemical structure between the Human WT and the ortholog given at the start of the project, _Oryctolagus cuniculus_, using BLAST both proteins were almost identical:
+| Metric | Value |
+|---|---|
+| Sequence identity (aligned positions) | 96.7% |
+| Same physicochemical class (including identical residues) | 98.3% |
+| Global RMSD | 6.17 Å |
+
+> Although the percentages excludes alignment gaps there's only one protein at the start that the Human WT has that the ortholog doesn't
+
+When looking at the 3D model of the WT proteins, the major changes apear at the ends of the protein
+<img width="950" height="700" alt="image" src="https://github.com/user-attachments/assets/df9354aa-af37-4236-bc23-1b1b6737e2ed" />
+###### figure 1. Superposition of Homo sapiens and Oryctolagus cuniculus structures. They are coloured by RMSD: white means they are perfectly superposed and red means they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
+
+
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ***
@@ -87,6 +102,7 @@ In the rabbit structure, the region around residue 150 is identical in sequence 
 ## Methods
 [Provide technical details for reproducibility: Data Sources, Implementation, Statistical
 Analysis.]
+
 Three-dimensional structures of aldolase B are available in the Protein Data Bank (PDB). The reference structure of the human enzyme (1QO5) was solved by X-ray diffraction at a resolution of 2.50 Å from a protein produced in Escherichia coli, and it shows a homotetramer. Two structures of the A149P mutant (1XDL and 1XDM) were solved by X-ray diffraction at 3.00 Å, at 277 K and at 291 K respectively, and the mutant is described as a homodimer instead of a tetramer (Malay et al. 2005). The residue changed in this variant is numbered 150 in UniProt but 149 in these structures, because the PDB numbering does not count the initial methionine. Finally, the structure of the rabbit (Oryctolagus cuniculus) liver aldolase (1FDJ), solved at 2.10 Å in complex with substrate and product ligands, allows the human protein to be compared with that of another mammal (Author Year).
 ***
 ## Abbreviations

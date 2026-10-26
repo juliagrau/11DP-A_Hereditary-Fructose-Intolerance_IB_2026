@@ -4,7 +4,7 @@
 | WBS NUMBER | TASK TITLE | TASK OWNER | START DATE | DUE DATE | DURATION | PCT OF TASK COMPLETE |
 |---|---|---|---|---|---|---|
 | **1** | **Research papers agreed** | | | | | |
-| 1.1 | Research HFI on PubMed | Josep F & Francine M | 10/15/26 | 10/18/26 | 3 | 100% |
+| 1.1 | Research HFI on PubMed | Josep F | 10/15/26 | 10/18/26 | 3 | 100% |
 | 1.2 | Define PDB protein structure | Diana Z & Jana I | 10/15/26 | 10/19/26 | 4 | 100% |
 | 1.3 | Identify HFI mutations | Julia | 10/12/26 | 10/15/26 | 3 | 100% |
 | **2** | **Data migrated and validated** | | | | | |

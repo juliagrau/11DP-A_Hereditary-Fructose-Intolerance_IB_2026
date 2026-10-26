@@ -1,5 +1,7 @@
+# Figures in the Report
+
 <img width="1044" height="794" alt="image" src="https://github.com/user-attachments/assets/33636f09-2f3b-488d-8714-1a397c301f97" />
-#####figure 1. Superposition of Homo sapiens and Oryctolagus cuniculus structures. They are coloured by RMSD: white means they are perfectly superposed and red means they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
+##### figure 1. Superposition of Homo sapiens and Oryctolagus cuniculus structures. They are coloured by RMSD: white means they are perfectly superposed and red means they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
 
 Table 1. Sequence identity of the orthologs with human aldolase B.
 | Species | CDS identity | Protein identity | Amino-acid differences | Gaps |

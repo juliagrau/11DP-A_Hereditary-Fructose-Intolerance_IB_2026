@@ -79,12 +79,7 @@ In the 3D viewer, residue 150 is located in a β-strand, in agreement with the U
 In the rabbit structure, the region around residue 150 is identical in sequence to the human one and very stable (B-factor below 10 Å²). Together with the sequence conservation, this indicates that this region is important for the structure of aldolase B in both species.
 
 ### Protein comparison between WT orthologs
-After comparing the physichochemical structure between the Human WT and the ortholog given at the start of the project, _Oryctolagus cuniculus_, using BLAST both proteins were almost identical:
-| Metric | Value |
-|---|---|
-| Sequence identity (aligned positions) | 96.7% |
-| Same physicochemical class (including identical residues) | 98.3% |
-| Global RMSD | 6.17 Å |
+After comparing the physichochemical structure between the Human WT and the ortholog given at the start of the project, _Oryctolagus cuniculus_, using BLAST both proteins were almost identical with a sequence identity (aligned positions) of 96.7%, same physicochemical class (including identical residues) of 98.3% and a global RMSD of 6.17 Å 
 
 > Although the percentages excludes alignment gaps there's only one protein at the start that the Human WT has that the ortholog doesn't
 

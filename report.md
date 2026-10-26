@@ -7,7 +7,7 @@ Bachelor's Degree in Bioinformatics, UPC-UPF-UAB-UB, Barcelona, Spain
 [Provide a structured abstract covering Background, Results, and Conclusions (Max 350
 words).]
 ### Keywords
-Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate [Keyword 1, Keyword 2, Keyword 3, Keyword 4, Keyword 5]
+Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate, Coding Sequence (CDS) [Keyword 1, Keyword 2, Keyword 3, Keyword 4, Keyword 5]
 
 ## Background
 

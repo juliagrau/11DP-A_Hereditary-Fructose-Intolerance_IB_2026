@@ -43,7 +43,7 @@ Although both Alanine and Proline are neutral, non-polar aminoacids that contain
 ### Evolutionary Conservation Comparison Analysis Between Species
 We compared human aldolase B with two mammals: rabbit (Oryctolagus cuniculus), the species assigned to our group, and Sumatran orangutan (Pongo abelii), a closely related primate. Following the practical guidelines, we only used curated RefSeq records: NM_001171114.1 and NP_001164585.1 for rabbit, and NM_001133694.1 and NP_001127166.1 for orangutan.
 
-**Table 2. Sequence identity of the orthologs with human aldolase B.**
+**Table 1. Sequence identity of the orthologs with human aldolase B.**
 
 | Species | CDS identity | Protein identity | Amino-acid differences | Gaps |
 |:---|:---:|:---:|:---:|:---:|
@@ -59,7 +59,7 @@ The three species are more similar at the protein level than at the CDS level. M
 ### Protein Structure Comparision and Atomic-Level Perturbations
 We searched the PDB with the UniProt accession of human aldolase B (P05062). Four human structures are available: 1QO5 and 8D44 have no mutations, while 1XDL and 1XDM contain the A149P substitution, the same variant found in our mutant sequence. We selected 1QO5 as the WT reference because it has the highest resolution (2.50 Å), and 1XDM as the main mutant structure. For the rabbit we used 1FDJ (liver aldolase B), because most rabbit aldolase structures in the PDB belong to the muscle isoform (aldolase A), which is a different gene.
 
-**Table 3. PDB structures analysed.**
+**Table 2. PDB structures analysed.**
 
 | | 1QO5 (human WT) | 1XDM (human A149P) | 1FDJ (rabbit WT) |
 |:---|:---:|:---:|:---:|

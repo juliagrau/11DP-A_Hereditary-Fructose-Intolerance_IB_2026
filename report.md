@@ -14,7 +14,7 @@ Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fr
 
 ## Background
 
-Fructose is a monosaccharide found in foods consumed daily, such as fruits, vegetables, and sweeteners, and it is also produced in small amounts by the brain. Aldolase B is one of the three aldolase isoenzymes and is found in the liver, kidney, and intestinal tissue, which are important organs in fructose metabolism (Ravi and Sharma 2026). It catalyses the reversible conversion of fructose 1,6-bisphosphate into glyceraldehyde 3-phosphate and dihydroxyacetone phosphate in glycolysis and gluconeogenesis, and it also cleaves fructose 1-phosphate in fructolysis.
+Fructose is a monosaccharide found in foods consumed daily, such as fruits, vegetables, and sweeteners, and it is also produced in small amounts by the brain. Aldolase B is one of the three aldolase isoenzymes and is found in the liver, kidney, and intestinal tissue, which are important organs in fructose metabolism. It catalyses the reversible conversion of fructose 1,6-bisphosphate into glyceraldehyde 3-phosphate and dihydroxyacetone phosphate in glycolysis and gluconeogenesis, and it also cleaves fructose 1-phosphate in fructolysis.
 
 Hereditary fructose intolerance (HFI) is an autosomal recessive disorder caused by mutations in the gene that codes for the isoenzyme aldolase B (ALDOB). For aldolase B to work, it must fold correctly into a homotetramer. Its four identical subunits need enough flexibility to open and close their contact interfaces and to orient the catalytic amino acids into exact positions, a process called induced fit. A variant that changes the properties of the protein chain may therefore stop the enzyme from working properly. It is an inherited condition with an estimated prevalence of 1 in 20 000 people, and it affects both sexes equally. When a person with HFI ingests fructose, fructokinase quickly converts it into fructose 1-phosphate. Without aldolase B to process this molecule, it accumulates, causing a depletion of both ATP and phosphate, which is responsible for long-term organ injury. The accumulation also increases the degradation of adenine nucleotides by adenosine deaminase, which increments the production of uric acid. In addition, the rise in uric acid is similar in glucose-6-phosphatase deficiency and fructose 1,6-bisphosphatase deficiency. 
 The acumulation of fructose also activates pyruvate kinase, the enzyme that catalyses the final step of glycolysis, so precursors of the Krebs cycle build up and contribute to acidosis. As a result, it leads to abdominal pain, vomit, nausea, hypoglycemia (a drop of blood sugar level) and even kidney and liver failure, which can be life-threatening. 
@@ -22,19 +22,11 @@ The acumulation of fructose also activates pyruvate kinase, the enzyme that cata
 HFI is diagnosed after several clinical tests that look at how the body reacts once the patient has eaten fructose, sucrose, or foods containing sorbitol. A more invasive option is a liver biopsy, which is used to check whether aldolase B is present. The urine can also be inspected for reducing substances, and the values are compared with the expected results. The main treatment for HFI is a diet free of fructose and sucrose, including products that contain sorbitol. This includes medicines or vaccines that have sorbitol as a main component.
 In a discrete choice experiment, adult patients had to choose, between their current fructose-restricted diet and a pharmacological therapy. A random parameter model first showed a tendency to prefer the diet. However, most participants chose an option which was closer to the pharmacological therapy. The authors therefore concluded that, despite the first model, patients were in fact more inclined towards pharmacological therapy.
 
-
-
-
-
-
-
-
-
 ***
 ## Results and Discussion
 
 ### Gene and Protein Identification Across Genomic Databases 
-To identify which was the causative gene and protein from the WT coding sequence (CDS) and the aminoacids FASTA files, we executed sequence similarity searches using BLAST, the Basic Local Alignment Search Tool. The first search iteration arose taxonomic discrepancy because the protein query we focused on was searched against a non-human primate homologue, a Sumatran orangutan (_pongo abelii_, accession NP_001127166.1). Simultaneously, a cross-search using OMIM, the Online Mendelian Inheritance in Man, was carried out. After typing the query search "Herederitary Fructose Intolerance" and learning about this disease from the first entries, we extracted the conclusion that we had to focus on the isoenzyme Aldolase B. 
+To identify which was the causative gene and protein from the WT coding sequence (CDS) and the aminoacids FASTA files, we executed sequence similarity searches using BLAST, the Basic Local Alignment Search Tool. The first search iteration arose taxonomic discrepancy because the protein query we focused on was searched against a non-human primate homologue, a Sumatran orangutan (_Pongo abelii_, accession NP_001127166.1). Simultaneously, a cross-search using OMIM, the Online Mendelian Inheritance in Man, was carried out. After typing the query search "Hereditary Fructose Intolerance" and learning about this disease from the first entries, we extracted the conclusion that we had to focus on the isoenzyme Aldolase B. 
 
 After repeating the searches, this time restricting the outputs to _Homo sapiens_, both the WT nucleotide CDS and protein sequences matched the 1-fructose,6-biphosphate aldolase B (ALDOB, accession NM_000035.4,chromosome 9q31.1 , nine exons; UniProtKB 364 amino acids, 39 473 Da, sequence updated in  2007). Querying the FASTA files compared to the human reference, sequence identity decreased from 100% (WT) to 99.91% (mutant) at the CDS level, and from 99.18% (WT) to 98.90% (mutant) at the protein level.
 

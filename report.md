@@ -4,8 +4,11 @@ Ferré Parés Josep, Grau Martín Júlia, Iturriaga Pizarro Jana, Zhouchen Diana
 Bachelor's Degree in Bioinformatics, UPC-UPF-UAB-UB, Barcelona, Spain
 
 ## Abstract
-[Provide a structured abstract covering Background, Results, and Conclusions (Max 350
-words).]
+Hereditary fructose intolerance (HFI) is an autosomal recessive metabolic disorder with an estimated prevalence of 1 in 20 000 individuals, caused by mutations in the ALDOB gene encoding the isoenzyme fructose-1,6-bisphosphate aldolase B. This isoenzyme is found in the liver, kidney, and small intestine, and aldolase B must fold into a flexible homotetramer to catalyse the reversible cleavage of fructose 1,6-bisphosphate in glycolysis and gluconeogenesis and the cleavage of fructose 1-phosphate in fructolysis. 
+We investigated the molecular, evolutionary, and structural basis of HFI using bioinformatic tools such as the Basic Local Alignment Search Tool (BLAST), Online Mendelian Inheritance in Man (OMIM), UniProtKB, and the Protein Data Bank (PDB). Sequence searches mapped the human wild-type (WT) coding sequence (CDS) and protein to ALDOB on chromosome 9q31.1 (NM_000035.4, nine exons; UniProt P05062, 364 amino acids, 39 473 Da). Pairwise alignment of the mutant sequence identified a single nucleotide substitution, c.448G>C (allele frequency 0.0031256), preserving the reading frame without insertions or deletions while causing the missense mutation p.Ala150Pro (BLOSUM score −1).
+Cross-species alignments with Pongo abelii (98.63% CDS and 99.18% protein identity) and Oryctolagus cuniculus (93.42% CDS and 96.98% protein identity); demonstrated that genetic code degeneracy presents silent nucleotide variations while strictly conserving the core block (positions 68–167) containing Ala150, that if affected, presents life-threatening consequences.
+Comparing WT human 3D structures against the mutant human 3D structure we could see that replacing a hydrogen-bond-donating Alanine with a rigid, cyclic Proline lacking a free amide hydrogen disrupts $\beta$-strand. This structural collapse prevents fructose 1-phosphate cleavage, triggering a depletion of intracellular adenosine triphosphate (ATP) and phosphate, uric acid elevation, acidosis, hypoglycaemia, and organ failure—explaining the need for strict dietary fructose exclusion.
+
 ### Keywords
 Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate, Coding Sequence (CDS) 
 

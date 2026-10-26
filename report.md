@@ -29,7 +29,7 @@ In a discrete choice experiment, adult patients had to choose, between their cur
 
 ***
 ## Results and Discussion
-[Present your findings. Use subheadings as needed.]
+
 ### Gene and Protein Identification Across Genomic Databases 
 To identify which was the causative gene and protein from the WT coding sequence (CDS) and the aminoacids FASTA files, we executed sequence similarity searches using BLAST, the Basic Local Alignment Search Tool. The first search iteration arose taxonomic discrepancy because the protein query we focused on was searched against a non-human primate homologue, a Sumatran orangutan (_pongo abelii_, accession NP_001127166.1). Simultaneously, a cross-search using OMIM, the Online Mendelian Inheritance in Man, was carried out. After typing the query search "Herederitary Fructose Intolerance" and learning about this disease from the first entries, we extracted the conclusion that we had to focus on the isoenzyme Aldolase B. 
 

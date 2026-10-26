@@ -108,12 +108,13 @@ Coding Sequence (CDS)
 
 ***
 ## Declarations
-Availability of data and materials: All data used in this study are publicly available.
+**Availability of data and materials**: All data used in this study are publicly available.
 - The wild-type and mutant CDS and protein sequences (FASTA files) were provided by the course.
 - The ALDOB Conservation file was also provided by the course.
 - Reference sequences were obtained from NCBI (BLAST) (NM_000035.4, NP_000026.2, NM_001171114.1, NP_001164585.1, NM_001133694.1 and NP_001127166.1) and UniProtKB (P05062), and protein structures from the RCSB Protein Data Bank (1QO5, 1XDL, 1XDM, 8D44 and 1FDJ.
+- All files, notes, tables and references used in this report are available in the GitHub repository 11DP-A_Hereditary-Fructose-Intolerance_IB_2026.
 
-Authors' contributions: [Specify roles]
+**Authors' contributions**: [Specify roles]
 ***
 ## References
 1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages.

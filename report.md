@@ -87,10 +87,8 @@ When looking at the 3D model of the WT proteins, the major changes apear at the 
 <img width="950" height="700" alt="image" src="https://github.com/user-attachments/assets/df9354aa-af37-4236-bc23-1b1b6737e2ed" />
 ###### figure 1. Superposition of Homo sapiens and Oryctolagus cuniculus structures. They are coloured by RMSD: white means they are perfectly superposed and red means they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
 
-
-## Discussion
-[Discuss implications, compare with existing research, and highlight limitations.]
-\### Molecular Impact of the c.448C&gt;G (p.Ala150Pro) Missense Mutation
+Most of the changes visible in the image are at the ends where the structure isn't rigid since it molds the ends to hold onto other structures meaning that the red regions will not be taken into acount to see the superposition of the proteins.
+Looking at the protein sequence in detail, there are protein mutations between the 2 sequences (E.g. p.Ser65Thr) that do not have an impact in the structure and funcionality of the protein since both of the proteins have very similar physicochemical properties. These mutations can be found through the sequences but they never have an impact on the seconday structures. 
 ***
 ## Conclusions
 [State the main conclusions and their significance.]

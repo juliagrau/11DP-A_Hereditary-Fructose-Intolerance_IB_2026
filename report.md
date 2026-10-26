@@ -90,6 +90,7 @@ Most of the changes visible in the image are at the ends where the structure isn
 Looking at the protein sequence in detail, there are protein mutations between the 2 sequences (E.g. p.Ser65Thr) that do not have an impact in the structure and funcionality of the protein since both of the proteins have very similar physicochemical properties. These mutations can be found through the sequences but they never have an impact on the seconday structures. 
 ***
 ## Conclusions
+In resolving the molecular basis of Hereditary Fructose Intolerance (HFI) through bioinformatic tools of BLAST and OMIM records, we can see that the severity of the disorder is not caused by the amount of mutations in the genetic sequence of ALDOB, but by the chemical incompatibility of a residue with the rest of the sequence. Although the ALDOB variant is a single nucleotide mutation and thus preserves the reading frame without insertions or deletions, this single change is enough to abolish the enzymatic function of this molecule due to it highly modifying the physical properties of the protein.
 ***
 ## Methods
 

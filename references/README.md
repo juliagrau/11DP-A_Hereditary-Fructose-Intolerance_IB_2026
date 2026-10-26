@@ -30,3 +30,8 @@
 
 - The Structure of Human Liver Fructose-1,6-Bisphosphate Aldolase
   Dalby, A.R., Tolan, D.R., Littlechild, J.A. (2001) Acta Crystallogr D Biol Crystallogr 57: 1526
+
+
+# Uniprot
+
+- UniProt Consortium. P79226 · ALDOB_RABIT: Fructose-bisphosphate aldolase B (Oryctolagus cuniculus). UniProtKB. https://www.uniprot.org/uniprotkb/P79226/entry (26 October 2026, date last accessed).

@@ -128,7 +128,6 @@ WT: Wild-Type
 All authors took part in the BLAST searches and sequence alignments of the practical sessions, contributed to the Gantt chart and project status, and reviewed and approved the final report.
 ***
 ## References
-1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages.
 
 Cross NC, Tolan DR, Cox TM. Catalytic deficiency of human aldolase B in hereditary fructose intolerance caused by a common missense mutation. Cell 1988;53:881-5.
 

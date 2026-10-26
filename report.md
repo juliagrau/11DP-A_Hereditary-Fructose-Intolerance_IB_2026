@@ -108,6 +108,7 @@ Three-dimensional structures of aldolase B are available in the Protein Data Ban
 ## Abbreviations
 [List abbreviations used, e.g., AI: Artificial Intelligence.]
 Hereditary fructose intolerance (HFI)
+Coding Sequence (CDS)
 
 ***
 ## Declarations

@@ -112,7 +112,13 @@ Coding Sequence (CDS)
 - Reference sequences were obtained from NCBI (BLAST) (NM_000035.4, NP_000026.2, NM_001171114.1, NP_001164585.1, NM_001133694.1 and NP_001127166.1) and UniProtKB (P05062), and protein structures from the RCSB Protein Data Bank (1QO5, 1XDL, 1XDM, 8D44 and 1FDJ.
 - All files, notes, tables and references used in this report are available in the GitHub repository 11DP-A_Hereditary-Fructose-Intolerance_IB_2026.
 
-**Authors' contributions**: [Specify roles]
+**Authors' contributions**: 
+- **Júlia Grau Martín** (project coordinator): coordination of the project and the team, UniProtKB analysis of aldolase B (function, disease variant, physicochemical change and BLOSUM score, and protein sequence), writing of the Results section, management of the GitHub repository and publication of the final version.
+- **Jana Iturriaga Pizarro** (principal investigator): PDB structure search and analysis (structure selection, asymmetric unit and biological assembly, B-factor and occupancy, location of the mutated residue and comparison with the rabbit structure), writing of the Results section (sequence conservation and protein structure) and of the Declarations.
+- **Diana Zhou Chen** (lead writer and risk supervisor): PDB structure search and analysis, risk analysis of the project plan, writing of the Background and methods sections, and writing and review of the report.
+- **Josep Ferré Parés** (communication and design manager): literature search on PubMed about HFI (disease, aldolase B function, diagnosis and treatment), which was used to write the Background section, writing of the Results section.
+
+All authors took part in the BLAST searches and sequence alignments of the practical sessions, contributed to the Gantt chart and project status, and reviewed and approved the final report.
 ***
 ## References
 1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages.

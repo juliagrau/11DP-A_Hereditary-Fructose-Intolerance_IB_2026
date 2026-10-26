@@ -12,7 +12,7 @@
 
 While there are a lot of mutations that can cause several illnesses, we focus on the mutation that causes HFI "p.Ala150Pro". After searching in UniProtKB/Swiss-Prot, the change in psysico-chemical property term can be descrived as "Change from small size and hydrophobic (A) to medium size and hydrophobic (P)".
 Not only that but the BLOSUM score (a score given on how probable the substitution is) is of -1
-The allele frequency of the mutation "c.448C>G" is of 0.0031256
+The allele frequency of the mutation "c.448G>C" is of 0.0031256
 
 ### Structure:
 

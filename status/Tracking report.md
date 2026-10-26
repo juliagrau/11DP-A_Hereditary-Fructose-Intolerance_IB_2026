@@ -10,3 +10,4 @@
 | Research UniProt | 3 | Júlia | Completed | 12.10 | 15.10 | Reassigned (02.10 report: Francine & Josep) | |
 | Research PubMed | 3 | Josep | Completed | 15.10 | 18.10 | Reassigned (02.10 report: Diana & Jana) | |
 | Research PDB | 3 | Diana & Jana | Completed | 15.10 | 19.10 | Reassigned (02.10 report: Júlia) | |
+| Write the report | 4 | Everyone | Completed | 21.10 | 26.10 ||

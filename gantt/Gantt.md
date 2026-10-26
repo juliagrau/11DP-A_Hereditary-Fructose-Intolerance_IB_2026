@@ -12,11 +12,11 @@
 | 2.2 | Research rabbit HFI data | Diana Z & Jana I | 10/15/26 | 10/19/26 | 4 | 100% |
 | 2.3 | Validate schema with sources | Everyone | 10/22/26 | 10/24/26 | 2 | 100% |
 | 2.4 | Migrate data to GitHub | Everyone | 10/20/26 | 10/25/26 | 5 | 100% |
-| 2.5 | Execute data validation checks | Everyone | 10/24/26 | 10/26/26 | 2 | 100% |
+| 2.5 | Execute data validation checks | Everyone | 10/24/26 | 10/25/26 | 1 | 100% |
 | **3** | **Project launch and handover** | | | | | |
 | 3.1 | Write cited  | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
 | 3.2 | Verify repository functionality and review database | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
-| 3.3 | Publish the final repository | Júlia G | 10/26/26 | 10/26/26 | 1 | 0% |
+| 3.3 | Publish the final repository | Júlia G | 10/26/26 | 10/26/26 | 0 | 100% |
 | **4** | **Oral defense (05/11)** | | | | | |
 | 4.1 | Prepare the oral defense | Everyone | 10/28/26 | 11/2/26 | 4 | 0% |
 | 4.2 | Oral defense | Everyone | 11/5/26 | 11/5/26 | 0 | 0% |

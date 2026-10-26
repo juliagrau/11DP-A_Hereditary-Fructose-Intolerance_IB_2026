@@ -116,3 +116,19 @@ Authors' contributions: [Specify roles]
 ***
 ## References
 1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages.
+
+Cross NC, Tolan DR, Cox TM. Catalytic deficiency of human aldolase B in hereditary fructose intolerance caused by a common missense mutation. Cell 1988;53:881-5.
+
+Esposito G, Imperato MR, Ieno L et al. Hereditary fructose intolerance: functional study of two novel ALDOB natural variants and characterization of a partial gene deletion. Hum Mutat 2010;31:1294-303. 
+
+Esposito G, Vitagliano L, Santamaria R et al. Structural and functional analysis of aldolase B mutants related to hereditary fructose intolerance. FEBS Lett 2002;531:152-6.
+
+Janssen LEF, Hiligsmann M, Timmer C et al. Treatment preferences of adult patients with hereditary fructose intolerance: a discrete choice experiment. Mol Genet Metab 2025;145:109169.
+
+Ravi U, Sharma L. Fructose-1-phosphate aldolase deficiency. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing, 2026.
+   
+Rumping L, Waterham HR, Kok I et al. Hereditaire fructose-intolerantie [Hereditary fructose intolerance]. Ned Tijdschr Geneeskd 2014;158:A6889. (In Dutch).
+
+Sánchez-Gutiérrez JC, Benlloch T, Leal MA et al. Molecular analysis of the aldolase B gene in patients with hereditary fructose intolerance from Spain. J Med Genet 2002;39:e56.
+
+Santamaria R, Vitagliano L, Tamasi S et al. Novel six-nucleotide deletion in the hepatic fructose-1,6-bisphosphate aldolase gene in a patient with hereditary fructose intolerance and enzyme structure-function implications. Eur J Hum Genet 1999;7:409-14.

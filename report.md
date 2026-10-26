@@ -90,11 +90,8 @@ Most of the changes visible in the image are at the ends where the structure isn
 Looking at the protein sequence in detail, there are protein mutations between the 2 sequences (E.g. p.Ser65Thr) that do not have an impact in the structure and funcionality of the protein since both of the proteins have very similar physicochemical properties. These mutations can be found through the sequences but they never have an impact on the seconday structures. 
 ***
 ## Conclusions
-[State the main conclusions and their significance.]
 ***
 ## Methods
-[Provide technical details for reproducibility: Data Sources, Implementation, Statistical
-Analysis.]
 
 Three-dimensional structures of aldolase B are available in the Protein Data Bank (PDB). The reference structure of the human enzyme (1QO5) was solved by X-ray diffraction at a resolution of 2.50 Å from a protein produced in Escherichia coli, and it shows a homotetramer. Two structures of the A149P mutant (1XDL and 1XDM) were solved by X-ray diffraction at 3.00 Å, at 277 K and at 291 K respectively, and the mutant is described as a homodimer instead of a tetramer (Malay et al. 2005). The residue changed in this variant is numbered 150 in UniProt but 149 in these structures, because the PDB numbering does not count the initial methionine. Finally, the structure of the rabbit (Oryctolagus cuniculus) liver aldolase (1FDJ), solved at 2.10 Å in complex with substrate and product ligands, allows the human protein to be compared with that of another mammal (Author Year).
 ***

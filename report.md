@@ -22,7 +22,6 @@ The acumulation of fructose also activates pyruvate kinase, the enzyme that cata
 HFI is diagnosed after several clinical tests that look at how the body reacts once the patient has eaten fructose, sucrose, or foods containing sorbitol. A more invasive option is a liver biopsy, which is used to check whether aldolase B is present. The urine can also be inspected for reducing substances, and the values are compared with the expected results. The main treatment for HFI is a diet free of fructose and sucrose, including products that contain sorbitol. This includes medicines or vaccines that have sorbitol as a main component.
 In a discrete choice experiment, adult patients had to choose, between their current fructose-restricted diet and a pharmacological therapy. A random parameter model first showed a tendency to prefer the diet. However, most participants chose an option which was closer to the pharmacological therapy. The authors therefore concluded that, despite the first model, patients were in fact more inclined towards pharmacological therapy.
 
-***
 ## Results and Discussion
 
 ### Gene and Protein Identification Across Genomic Databases 
@@ -83,7 +82,8 @@ When looking at the 3D model of the WT proteins, the major changes apear at the 
 
 Most of the changes visible in the image are at the ends where the structure isn't rigid since it molds the ends to hold onto other structures meaning that the red regions will not be taken into acount to see the superposition of the proteins.
 Looking at the protein sequence in detail, there are protein mutations between the 2 sequences (E.g. p.Ser65Thr) that do not have an impact in the structure and funcionality of the protein since both of the proteins have very similar physicochemical properties. These mutations can be found through the sequences but they never have an impact on the seconday structures. 
-***
+
+
 ## Conclusions
 In resolving the molecular basis of Hereditary Fructose Intolerance (HFI) through bioinformatic tools of BLAST and OMIM records, we can see that the severity of the disorder is not caused by the amount of mutations in the genetic sequence of ALDOB, but by the chemical incompatibility of a residue with the rest of the sequence. Although the ALDOB variant is a single nucleotide mutation and thus preserves the reading frame without insertions or deletions, this single change is enough to abolish the enzymatic function of this molecule due to it highly modifying the physical properties of the protein. This is confirmed when we execute cross-species comparisons with Pongo abelii and Oryctolagus cuniculus, which reveal how mutations are silent as long as they don’t alter a spot that has been maintained across species. Proven in the accuracy percentages when compared to the Homo Sapiens CDS sequence, since the orangutan and rabbit (98.63% and 93.42% accuracy rates respectively) don’t have a 100% match in nucleotide sequences we understand that the silent variations between the genetic code occurred in the flexible ends of the DNA strands. Individuals who presented alterations in the areas that abolished the enzymatic functions of the protein couldn’t survive, consequently couldn’t reproduce and pass on the coding sequence presenting the mutation. Nature allows silent DNA changes that don’t modify the amino acid, but strictly forbids the ones that alter its structure, proving that what causes HFI is not the amount of mutations, but by the magnitude and position of them.
 
@@ -91,7 +91,7 @@ At the macromolecular level, analyzing the sequence with three-dimensional cryst
 
 By tracing the structural collapse to the clinical implications we are able to see how a single localized perturbation can transcend into a life-threatening disease. The loss of the ALDOB functionality in liver, kidney and small intestine means the accumulation of a metabolic toxin, fructose 1-phosphate, consequently the depletion of intracellular ATP and phosphate. This error in macromolecular folding transforms into organ failure, defining it as a secondary consequence caused by structural mutations in the protein. The method to treat this disease is through specialized diets for the affected individuals, but through experiments it has been proven that adult HFI patients agree in a daily-dose pill to be able to ingest this saccharide. 
 
-***
+
 ## Methods
 
 **Data sources.** The wild-type and disease-associated CDS and protein sequence (FASTA files) were provided by the course. The literature on HFI was searched in PubMed. Gene, transcript and protein records were obtained from NCBI, gene-disease relationships from OMIM, protein annotation from UniProtKB, and 3D structures from the RCSB Protein Data Bank (PDB). All databases were accessed in October 2026. Following the course guidelines, we only used curated NCBI Reference Sequence (accessions starting with NM_ for transcripts and NP_ for proteins) and discarded predicted records (XM_ and XP_).
@@ -100,7 +100,7 @@ By tracing the structural collapse to the clinical implications we are able to s
 
 **Structural analysis.** PDB structures were searched with the Uniprot accession of human aldolase B (P05062) and of rabbit aldolase B (P79226). For each entry, we recorded the data of the Structure Summary Page (method,resolution,R-values,chains,biological assembly, ligand and mutation).Following the course criterion, the wild-type structure with the highest resolution was selected as the reference. The asymmetric unit and the biological assembly were compared with the image options of each page. B-factors and occupancies were read from the coordinate files in legacy PDB format, and the location and secondary structure of residue 150 were examined in the Mol*3D viewer. In the PDB files, residues are numbered without the initial methionine, so residue 150 of our sequences correspond to residue 149 (and to residue 1149 in the rabbit file 1FDJ, where chain A is numbered from 1001).
 
-***
+
 ## Abbreviations
 HFI: Hereditary fructose intolerance
 
@@ -116,7 +116,7 @@ WT: Wild-Type
 
 NCBI: National Center for Biotechnology Information (US)
 
-***
+
 ## Declarations
 **Availability of data and materials**: All data used in this study are publicly available.
 - The wild-type and mutant CDS and protein sequences (FASTA files) were provided by the course.
@@ -131,7 +131,8 @@ NCBI: National Center for Biotechnology Information (US)
 - **Josep Ferré Parés** (communication and design manager): literature search on PubMed about HFI (disease, aldolase B function, diagnosis and treatment), which was used to write the Background section, writing of the Results section.
 
 All authors took part in the BLAST searches and sequence alignments of the practical sessions, contributed to the Gantt chart and project status, and reviewed and approved the final report.
-***
+
+
 ## References
 
 - Blom NS, White A, Sygusch J. Fructose 1,6-bisphosphate aldolase from rabbit liver. RCSB Protein Data Bank, PDB ID 1FDJ. https://www.rcsb.org/structure/1FDJ (26 October 2026, date last accessed).

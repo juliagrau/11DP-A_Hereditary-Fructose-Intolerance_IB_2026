@@ -9,7 +9,7 @@ We investigated the molecular, evolutionary, and structural basis of HFI using b
 Cross-species alignments with Pongo abelii (98.63% CDS and 99.18% protein identity) and Oryctolagus cuniculus (93.42% CDS and 96.98% protein identity); demonstrated that genetic code degeneracy presents silent nucleotide variations while strictly conserving the core block (positions 68–167) containing Ala150, that if affected, presents life-threatening consequences.
 Comparing WT human 3D structures against the mutant human 3D structure we could see that replacing a hydrogen-bond-donating Alanine with a rigid, cyclic Proline lacking a free amide hydrogen disrupts $\beta$-strand. This structural collapse prevents fructose 1-phosphate cleavage, triggering a depletion of intracellular adenosine triphosphate (ATP) and phosphate, uric acid elevation, acidosis, hypoglycaemia, and organ failure—explaining the need for strict dietary fructose exclusion.
 
-### Keywords
+## Keywords
 Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate, Coding Sequence (CDS) 
 
 ## Background

@@ -96,7 +96,7 @@ In resolving the molecular basis of Hereditary Fructose Intolerance (HFI) throug
 
 **Data sources.** The wild-type and disease-associated CDS and protein sequence (FASTA files) were provided by the course. The literature on HFI was searched in PubMed. Gene, transcript and protein records were obtained from NCBI, gene-disease relationships from OMIM, protein annotation from UniProtKB, and 3D structures from the RCSB Protein Data Bank (PDB). All databases were accessed in October 2026. Following the course guidelines, we only used curated NCBI Reference Sequence (accessions starting with NM_ for transcripts and NP_ for proteins) and discarded predicted records (XM_ and XP_).
 **Sequence searches and aligments.** BLASTn (fro CDS) and BLASTp (for proteins) were run on the NCBI web server with default parameters, first without restrictions and then restricting the organism to _Homo sapiens_. For each search, we selected the curated hit with the highest identity, query coverage and lowest E-value whose description matched aldolase B. Homologs were obtained in the same way, restricting the search to _Orictolagus cuniculus_ (species assigned by the course) and _Pongo abelii_ (additional species chosen by the team). The WT and mutant sequences were compared with the BLAST pairwise alignment option, and the three species with the multiple alignment option, using the human sequence as the reference and the "query-anchored with dots for identities" view. Conserved blocks, substitutions and identities were identified from these alignments.
-**Structural analysis.**
+**Structural analysis.** PDB structures were searched with the Uniprot accession of human aldolase B (P05062) and of rabbit aldolase B (P79226). For each entry, we recorded the data of the Structure Summary Page (method,resolution,R-values,chains,biological assembly, ligand and mutation).Following the course criterion, the wild-type structure with the highest resolution was selected as the reference. The asymmetric unit and the biological assembly were compared with the image options of each page. B-factors and occupancies were read from the coordinate files in legacy PDB format, and the location and secondary structure of residue 150 were examined in the Mol*3D viewer. In the PDB files, residues are numbered without the initial methionine, so residue 150 of our sequences correspond to residue 149 (and to residue 1149 in the rabbit file 1FDJ, where chain A is numbered from 1001).
 
 ***
 ## Abbreviations
@@ -111,6 +111,8 @@ ATP: Adenosine Triphosphate
 PDB: Protein Data Bank
 
 WT: Wild-Type
+
+NCBI: National Center for Biotechnology Information (US)
 
 ***
 ## Declarations
@@ -130,18 +132,31 @@ All authors took part in the BLAST searches and sequence alignments of the pract
 ***
 ## References
 
-Cross NC, Tolan DR, Cox TM. Catalytic deficiency of human aldolase B in hereditary fructose intolerance caused by a common missense mutation. Cell 1988;53:881-5.
+- Blom NS, White A, Sygusch J. Fructose 1,6-bisphosphate aldolase from rabbit liver. RCSB Protein Data Bank, PDB ID 1FDJ. https://www.rcsb.org/structure/1FDJ (26 October 2026, date last accessed).
 
-Esposito G, Imperato MR, Ieno L et al. Hereditary fructose intolerance: functional study of two novel ALDOB natural variants and characterization of a partial gene deletion. Hum Mutat 2010;31:1294-303. 
+- Cross NC, Tolan DR, Cox TM. Catalytic deficiency of human aldolase B in hereditary fructose intolerance caused by a common missense mutation. Cell 1988;53:881-5.
 
-Esposito G, Vitagliano L, Santamaria R et al. Structural and functional analysis of aldolase B mutants related to hereditary fructose intolerance. FEBS Lett 2002;531:152-6.
+- Dalby AR, Tolan DR, Littlechild JA. Fructose 1,6-bisphosphate aldolase from human liver tissue. RCSB Protein Data Bank, PDB ID 1QO5. https://www.rcsb.org/structure/1QO5 (26 October 2026, date last accessed).
 
-Janssen LEF, Hiligsmann M, Timmer C et al. Treatment preferences of adult patients with hereditary fructose intolerance: a discrete choice experiment. Mol Genet Metab 2025;145:109169.
+- Esposito G, Imperato MR, Ieno L et al. Hereditary fructose intolerance: functional study of two novel ALDOB natural variants and characterization of a partial gene deletion. Hum Mutat 2010;31:1294-303. 
 
-Ravi U, Sharma L. Fructose-1-phosphate aldolase deficiency. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing, 2026.
+- Esposito G, Vitagliano L, Santamaria R et al. Structural and functional analysis of aldolase B mutants related to hereditary fructose intolerance. FEBS Lett 2002;531:152-6.
+
+- Janssen LEF, Hiligsmann M, Timmer C et al. Treatment preferences of adult patients with hereditary fructose intolerance: a discrete choice experiment. Mol Genet Metab 2025;145:109169.
+
+- Lyu M, Yu EW. Cryo-electron microscopy structure of human kidney fructose-bisphosphate aldolase B. RCSB Protein Data Bank, PDB ID 8D44. https://www.rcsb.org/structure/8D44 (26 October 2026, date last accessed).
+
+- Malay AD, Allen KN, Tolan DR. Structure of human aldolase B associated with hereditary fructose intolerance (A149P), at 277K. RCSB Protein Data Bank, PDB ID 1XDL. https://www.rcsb.org/structure/1XDL (26 October 2026, date last accessed).
+
+- Malay AD, Allen KN, Tolan DR. Structure of human aldolase B associated with hereditary fructose intolerance (A149P), at 291K. RCSB Protein Data Bank, PDB ID 1XDM. https://www.rcsb.org/structure/1XDM (26 October 2026, date last accessed).
+
+- Ravi U, Sharma L. Fructose-1-phosphate aldolase deficiency. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing, 2026.
    
-Rumping L, Waterham HR, Kok I et al. Hereditaire fructose-intolerantie [Hereditary fructose intolerance]. Ned Tijdschr Geneeskd 2014;158:A6889. (In Dutch).
+- Rumping L, Waterham HR, Kok I et al. Hereditaire fructose-intolerantie [Hereditary fructose intolerance]. Ned Tijdschr Geneeskd 2014;158:A6889. (In Dutch).
 
-Sánchez-Gutiérrez JC, Benlloch T, Leal MA et al. Molecular analysis of the aldolase B gene in patients with hereditary fructose intolerance from Spain. J Med Genet 2002;39:e56.
+- Sánchez-Gutiérrez JC, Benlloch T, Leal MA et al. Molecular analysis of the aldolase B gene in patients with hereditary fructose intolerance from Spain. J Med Genet 2002;39:e56.
 
-Santamaria R, Vitagliano L, Tamasi S et al. Novel six-nucleotide deletion in the hepatic fructose-1,6-bisphosphate aldolase gene in a patient with hereditary fructose intolerance and enzyme structure-function implications. Eur J Hum Genet 1999;7:409-14.
+- Santamaria R, Vitagliano L, Tamasi S et al. Novel six-nucleotide deletion in the hepatic fructose-1,6-bisphosphate aldolase gene in a patient with hereditary fructose intolerance and enzyme structure-function implications. Eur J Hum Genet 1999;7:409-14.
+
+- UniProt Consortium. P05062 · ALDOB_HUMAN: Fructose-bisphosphate aldolase B (Homo sapiens). UniProtKB. https://www.uniprot.org/uniprotkb/P05062/entry (26 October 2026, date last accessed).
+

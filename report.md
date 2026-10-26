@@ -7,7 +7,7 @@ Bachelor's Degree in Bioinformatics, UPC-UPF-UAB-UB, Barcelona, Spain
 [Provide a structured abstract covering Background, Results, and Conclusions (Max 350
 words).]
 ### Keywords
-Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate, Coding Sequence (CDS) [Keyword 1, Keyword 2, Keyword 3, Keyword 4, Keyword 5]
+Hereditary Fructose Intolerance (HFI), Aldolase B (ALDOB), Protein Structure, fructose 1-phosphate, Coding Sequence (CDS) 
 
 ## Background
 
@@ -110,7 +110,7 @@ Coding Sequence (CDS)
 Availability of data and materials: All data used in this study are publicly available.
 - The wild-type and mutant CDS and protein sequences (FASTA files) were provided by the course.
 - The ALDOB Conservation file was also provided by the course.
-- Reference sequences were obtained from NCBI (NM_000035.4, NP_000026.2, NM_001171114.1, NP_001164585.1, NM_001133694.1 and NP_001127166.1) and UniProtKB (P05062), and protein structures from the RCSB Protein Data Bank (1QO5, 1XDL, 1XDM, 8D44 and 1FDJ.
+- Reference sequences were obtained from NCBI (BLAST) (NM_000035.4, NP_000026.2, NM_001171114.1, NP_001164585.1, NM_001133694.1 and NP_001127166.1) and UniProtKB (P05062), and protein structures from the RCSB Protein Data Bank (1QO5, 1XDL, 1XDM, 8D44 and 1FDJ.
 
 Authors' contributions: [Specify roles]
 ***

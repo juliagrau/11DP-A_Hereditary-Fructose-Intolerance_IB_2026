@@ -90,6 +90,7 @@ When looking at the 3D model of the WT proteins, the major changes apear at the 
 
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
+\### Molecular Impact of the c.448C&gt;G (p.Ala150Pro) Missense Mutation
 ***
 ## Conclusions
 [State the main conclusions and their significance.]

@@ -14,7 +14,7 @@
 | 2.4 | Migrate data to GitHub | Everyone | 10/20/26 | 10/25/26 | 5 | 100% |
 | 2.5 | Execute data validation checks | Everyone | 10/24/26 | 10/25/26 | 1 | 100% |
 | **3** | **Project launch and handover** | | | | | |
-| 3.1 | Write cited  | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
+| 3.1 | Write citations | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
 | 3.2 | Verify repository functionality and review database | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
 | 3.3 | Publish the final repository | Júlia G | 10/26/26 | 10/26/26 | 0 | 100% |
 | **4** | **Oral defense (05/11)** | | | | | |

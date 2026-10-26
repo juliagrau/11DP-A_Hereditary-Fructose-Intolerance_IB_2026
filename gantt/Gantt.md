@@ -18,5 +18,5 @@
 | 3.2 | Verify repository functionality and review database | Everyone | 10/25/26 | 10/26/26 | 1 | 100% |
 | 3.3 | Publish the final repository | Júlia G | 10/26/26 | 10/26/26 | 0 | 100% |
 | **4** | **Oral defense (05/11)** | | | | | |
-| 4.1 | Prepare the oral defense | Everyone | 10/28/26 | 11/2/26 | 4 | 0% |
+| 4.1 | Prepare the oral defense | Everyone | 10/28/26 | 11/3/26 | 5 | 0% |
 | 4.2 | Oral defense | Everyone | 11/5/26 | 11/5/26 | 0 | 0% |
